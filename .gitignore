@@ -1,0 +1,11 @@
+.DS_Store
+.env
+
+# cache
+src/__pycache__
+src/.cache
+src/.bash_history
+
+src/.vscode-server
+*.pyc
+*.log
