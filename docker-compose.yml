@@ -4,7 +4,7 @@ services:
     env_file: .env
     restart: always
     build: .
-    container_name: 'python3'
+    container_name: 'himeji_garbage_line_bot'
     working_dir: '/root/'
     tty: true
     volumes:
